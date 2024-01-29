@@ -1,6 +1,6 @@
 Assignment URL:
 
-https://github.com/aaronso19/
+https://github.com/aaronso19/BankM
 
 Assignment Summary:
 
